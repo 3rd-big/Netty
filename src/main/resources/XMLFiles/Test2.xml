@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<teleMsg>
+    <header>
+        <globId>20210106EXTAPTSDSAPT1305411700000100</globId>
+        <exsIntfId>OSEO_200</exsIntfId>
+        <envInfoDvcd>D</envInfoDvcd>
+        <frstTrnmSysCd>EXT</frstTrnmSysCd>
+        <trnmSysCd>EXT</trnmSysCd>
+        <demdRespDvcd>Q</demdRespDvcd>
+        <syncDvCd>S</syncDvCd>
+        <mesgDemdDttm>20210106130541170</mesgDemdDttm>
+        <frstTrnmIp>127.0.0.1</frstTrnmIp>
+        <winkPgmId></winkPgmId>
+    </header>
+   <body><MSG_CLCD>1000</MSG_CLCD><MSG_TYPE>200</MSG_TYPE><MSG_SEQ>987654321</MSG_SEQ></body>
+    <end>
+        <teleMsgEndCd>$$</teleMsgEndCd>
+    </end>
+</teleMsg>
